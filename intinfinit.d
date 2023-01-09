@@ -1,0 +1,1 @@
+intinfinit.o: intinfinit.c
