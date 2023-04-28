@@ -1,8 +1,8 @@
-int main()
-{
-	int i = 0;
+int main() {
+	long int i = 0;
 	while (1)
 	{
-		i += 1;
+		i++;
 	}
+	return 0;
 }
